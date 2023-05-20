@@ -1,0 +1,75 @@
+.column{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(211, 211, 211, 0.137);
+    margin-left: 3px !important;
+    margin-top: 100px !important;
+}
+.coiumn-img{
+    width: 100%;
+    height: 100%;
+    margin-top: -20px !important;
+    /* background-color: white; */
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    background-image: linear-gradient(orange,orangered);
+    border-radius: 50px;
+    /* background-color: orange; */
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.percent{
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 20px !important;
+}
+.off{
+    margin-top: -20px;
+    text-align: center;
+}
+.of{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 100px;
+}
+.deal{
+    color: orangered;
+}
+.hikan{
+    color: black;
+    font-size: 1.2rem;
+    margin-left: 5px;
+}
+.three{
+    width: 80px;
+    height: 80px;
+    border:  solid orangered;
+    margin-top: 10px;
+}
+.Bs{
+    background-color: orangered;
+    color: white;
+    border: none;
+    margin-top: 20px;
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+}
+.Bs:hover{
+    background-color: black;
+    color: orangered;
+}
+.oo{
+    text-align: center;
+    color: orangered;
+    font-size: 2rem;
+}
+.text{
+    text-align: center;
+}
+.box{
+    display: flex;
+}

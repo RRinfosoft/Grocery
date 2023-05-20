@@ -1,0 +1,62 @@
+
+.carouselss{
+    margin-top: 200px !important;
+
+}
+.caro-circle{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    border-radius: 50px;
+    margin: auto;
+
+}
+.dblock{
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+}
+.icn{
+    font-size: 2.4rem;
+    color: orangered;
+    margin-top: 20px;
+}
+.video{
+    width: 100%;
+    height: 100%;
+    /* background-color: rgba(128, 128, 128, 0.445); */
+    margin-left: 2px !important;
+    margin-top: 100px !important;
+}
+.video-sec{
+    width: 100%;
+    height: 90%;
+    margin-top: 20px !important;
+    /* background-color: #fff; */
+    /* margin-left: 40px; */
+}
+.fru{
+    font-size: 2.4rem;
+    /* margin-left: 10px; */
+    font-family: 'Times New Roman', Times, serif;
+}
+.we{
+    color: orangered;
+}
+.since{
+    margin-left: 10px;
+}
+.para{
+    width: 80%;
+}
+.kn-btn{
+    width: 150px;
+    height: 40px;
+    background-color: orangered;
+    border-radius: 50px;
+    border: none;
+}
+.kn-btn:hover{
+    background-color: black;
+    color: orangered;
+}

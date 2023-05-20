@@ -1,0 +1,89 @@
+.home-card-div{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    box-shadow: -1px 3px 43px -6px rgba(196,163,163,0.75);
+-webkit-box-shadow: -1px 3px 43px -6px rgba(196,163,163,0.75);
+-moz-box-shadow: -1px 3px 43px -6px rgba(196,163,163,0.75);
+margin-top: 100px;
+
+}
+.home-card-div:hover{
+    background-color:white;
+}
+.zoom {
+  /* padding: 50px;
+  background-color: green; */
+  transition: transform .2s; /* Animation */
+  /* width: 200px;
+  height: 200px;
+  margin: 0 auto; */
+}
+
+.zoom:hover {
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+.img{
+    width: 100%;
+    height: 300px;
+    margin: auto;
+}
+.set{
+    width: 50%;
+    height: 90%;
+    margin-left: 75px;
+}
+.sets{
+    width: 50%;
+    height: 70%;
+    margin-left: 75px;
+}
+.our-te{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 100px;
+    color: orangered;
+}
+.lorem-text{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.stra{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: -50px;
+}
+.per{
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: gray;
+}
+.number{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.add-btn{
+    width: 200px;
+    height: 50px;
+    background-color: orangered;
+    border-radius: 50px;
+    border: none;
+    color: white;
+    /* margin: auto; */
+}
+.add-btn:hover{
+ background-color: black;
+ color: orangered;
+
+}
+.berry{
+    margin-top: -80px;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    /* margin-top: -50px; */
+}

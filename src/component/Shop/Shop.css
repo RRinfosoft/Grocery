@@ -1,0 +1,117 @@
+.back {
+    width: 100%;
+    height: 500px;
+    background-color: #051922;
+    opacity: 0.9;
+}
+
+.abArr {
+    color: orangered;
+    letter-spacing: 14px;
+    padding-top: 200px;
+    text-align: center;
+    font-family: serif;
+    font-weight: bold;
+
+}
+
+.abUs {
+    font-size: 3rem;
+    color: white;
+    font-family: serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.img2{
+    width: 50%;
+    height: 100px;
+    margin: auto;
+    margin-top: 50px !important;
+}
+.set2{
+    width: 50%;
+    height: 90%;
+}
+.berry2{
+    margin-top: -80px;
+    text-align: center;
+    font-size: 2.3rem !important;
+    font-family: serif;
+    font-weight: bold;
+    margin-top: 20px !important;
+    /* margin-top: -50px; */
+}
+.home-card-div2{
+    width: 50%;
+    height: 500px;
+    background-color: white;
+    box-shadow: -1px 3px 43px -6px rgba(196,163,163,0.75);
+-webkit-box-shadow: -1px 3px 43px -6px rgba(196,163,163,0.75);
+-moz-box-shadow: -1px 3px 43px -6px rgba(196,163,163,0.75);
+margin-top: 100px;
+
+}
+.home-card-div:hover{
+    background-color:white;
+}
+.zoom {
+  /* padding: 50px;
+  background-color: green; */
+  transition: transform .2s; /* Animation */
+  /* width: 200px;
+  height: 200px;
+  margin: 0 auto; */
+}
+
+.zoom:hover {
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+.add-btn2{
+    width: 200px;
+    height: 50px;
+    background-color: orangered;
+    border-radius: 50px;
+    border: none;
+    color: white;
+}
+.add-btn2:hover{
+ background-color: black;
+ color: orangered;
+
+}
+.length{
+    width: 100%;
+    height: 100%;
+}
+.section3{
+    margin-top: 50px !important;
+}
+.It-motion{
+    /* text-align: left; */
+    padding-left: -20px !important;
+    margin-top: -80px;
+    font-size: 1.3rem;
+    font-family: serif;
+    color: white;
+    letter-spacing: 3px;
+}
+.motion-bck{
+    /* margin-left: -30px !important; */
+    margin-top: -80px;
+    width: 30%;
+    height: 30px;
+    background-color: #051922 !important;
+}
+.per2{
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: gray;
+}
+.img23{
+    width: 80%;
+    height: 200px;
+    margin: auto;
+    margin-top: 50px !important;
+}
